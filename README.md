@@ -148,7 +148,8 @@ def get_logger(self):
 年卡：使用期限1年，799元。年卡可多次购买。适合长期采集需求
 ```
 付费方式：
-![收款码v2](https://files.mdnice.com/user/32110/4cf2481a-6baa-40d4-8360-baa3a8a21389.png)
+<img width="2144" height="412" alt="收款码v4" src="https://github.com/user-attachments/assets/4eca6224-6d53-45ca-99e5-e3228ed205c1" />
+
 付费后，加我微信（493882434）自动掉落登录卡密。
 
 ## 4.2 一机一码
@@ -162,8 +163,5 @@ def get_logger(self):
 
 # 五、软件获取
 公众号"**老男孩的平凡之路**"，后台回复"**爬油管评论**"获取最新版软件安装包。
-![二维码-公众号放底部](https://github.com/user-attachments/assets/8dc4a0ea-ad2f-4a27-9c64-04686c801668)
+<img width="1938" height="364" alt="二维码-公众号放底部v2" src="https://github.com/user-attachments/assets/bf8a3a19-eb1f-49a0-b919-d0d5d67fe20d" />
 
-
-
-其他疑问，加马哥V：493882434
