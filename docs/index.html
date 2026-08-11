@@ -121,7 +121,7 @@
       gap: 28px;
     }
     .brand { display: inline-flex; align-items: center; gap: 10px; color: var(--ink); font-weight: 800; text-decoration: none; }
-    .brand-mark { display: grid; width: 36px; height: 28px; place-items: center; border-radius: 9px; background: var(--accent); color: #fff; font-size: 12px; letter-spacing: -.03em; }
+    /* .brand-mark { display: grid; width: 36px; height: 28px; place-items: center; border-radius: 9px; background: var(--accent); color: #fff; font-size: 12px; letter-spacing: -.03em; } */
     .nav-actions { display: flex; align-items: center; gap: 16px; }
     .nav-links { display: flex; align-items: center; gap: 22px; font-size: 14px; font-weight: 650; }
     .nav-links a { color: var(--muted); text-decoration: none; }
@@ -379,7 +379,10 @@ var _hmt = _hmt || [];
   <a class="skip-link" href="#main"><span data-zh="跳到正文" data-en="Skip to content">跳到正文</span></a>
   <header class="site-header">
     <div class="nav-shell">
-      <a class="brand" href="#top" aria-label="ytb_cmt_spider 首页"><span class="brand-mark">YT</span><span>ytb_cmt_spider</span></a>
+  <a class="brand" href="#top" aria-label="ytb_cmt_spider 首页">                                                                                          
+    <img src="images/logo.png" alt="ytb_cmt_spider" width="36" height="28" style="border-radius:9px">                                                     
+    <span>ytb_cmt_spider</span>                                                                                                                           
+  </a>
       <nav class="nav-links" id="navigation" aria-label="主导航">
         <a href="#features"><span data-zh="功能" data-en="Features">功能</span></a>
         <a href="#workflow"><span data-zh="采集流程" data-en="Workflow">采集流程</span></a>
